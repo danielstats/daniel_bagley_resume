@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Bagley's Resume
 ---
 # Daniel Bagley
-6'8" Statistician
+6'8" Statistician  <!-- I feel like this will definatly omit your resume from any job application -->
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
