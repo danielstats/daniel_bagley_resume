@@ -33,15 +33,15 @@ __Lone Peak High School__, Highland UT
 _Brigham Young University-Idaho Mathematics Department_, 	Rexburg, ID
 __Teaching Assistant__
 
-- Collaborated with a team of three to design, teach and modify MATH 221D course
+- Collaborated with a team of three to design and teach new _MATH 221D_ "Introductory Statistics With R" course
 - - Analyzed student and teaching data to create original methods for teaching course
 - - Designed, wrote and implemented over 2000 lines of R code to support course
 - - Set and achieved goals in collaboration with team members
 - - Led and supported in-class discussions and learning
-- Supported a classroom of 30+ students in learning intermediate/advanced statistics
+- Supported a classroom of 30+ students in learning beginning/intermediate statistics
 - - Led classroom lectures/discussions and taught students programming (R) and mathematical concepts including ANOVA, Linear Regression, Logistic Regression, Wilcoxon/Mann-Whitney, Kruskal-Wallis, and Chi-Squared tests
 - - Tutored 150+ students one-on-one and in small groups
-- - Innovated classroom learning by creating demonstrations and guides for di cult concepts
+- - Innovated classroom learning by creating demonstrations and guides for diffcult concepts
 
 
 `January 2021 - April 2024`
@@ -53,8 +53,8 @@ __Teaching Assistant__
 - - Implemented new procedures to save department TAs 100+ hours per semester, including developing new training procedures and documentation
 	
 `January 2018 - March 2020`
-__Full-Time Volunteer Representative__
 _Church of Jesus Christ of Latter-day Saints_, Orlando, FL
+__Full-Time Volunteer Representative__
 - Coached and mentored teams (6-12) of full-time volunteers by creating unity, emphasizing individual abilities, and promoting personal growth
 - Collected and interpreted team data to plan, conduct, and speak at weekly training meetings
 - Reviewed statistics to determine team direction and emphases
