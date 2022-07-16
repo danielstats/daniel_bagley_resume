@@ -3,82 +3,69 @@ layout: cv
 title: Daniel Bagley's Resume
 ---
 # Daniel Bagley
-6'8" Statistician  <!-- I feel like this will definatly omit your resume from any job application -->
+www.linkedin.com/in/daniel-bagley | (801) 717 7585 | danielbagely@gmail.com 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/daniel-bagley">LinkedIn</a>
+| <a href="https://github.com/danielstats">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+### Pursuing Bachelor's in Applied Mathematical Sciences, emphasizing Statistics	
+`September 2020 - April 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Minor in Psychology
+- Certificate in Data Science
 
 
-## Service and Work History
+### High School Diploma
+`2014 - 2017`
+__Lone Peak High School__, Highland UT
+- 100% attendance all 4 years
 
-`2025-2027`
-__Math Tutor__, LDSBC
+
+## Work Experience
+`April 2021 - April 2024`
+_Brigham Young University-Idaho Mathematics Department_, 	Rexburg, ID
+__Teaching Assistant__
+
+- Collaborated with a team of three to design, teach and modify MATH 221D course
+- - Analyzed student and teaching data to create original methods for teaching course
+- - Designed, wrote and implemented over 2000 lines of R code to support course
+- - Set and achieved goals in collaboration with team members
+- - Led and supported in-class discussions and learning
+- Supported a classroom of 30+ students in learning intermediate/advanced statistics
+- - Led classroom lectures/discussions and taught students programming (R) and mathematical concepts including ANOVA, Linear Regression, Logistic Regression, Wilcoxon/Mann-Whitney, Kruskal-Wallis, and Chi-Squared tests
+- - Tutored 150+ students one-on-one and in small groups
+- - Innovated classroom learning by creating demonstrations and guides for di cult concepts
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`January 2021 - April 2024`
+_Brigham Young University-Idaho Religion Department_, 	Rexburg, ID
+__Teaching Assistant__
+- Managed database of approximately 500 students' data (homework, grades, etc.)
+- Assisted Professors in designing, implementing and managing courses in Canvas LMS
+- - Independently researched innovative system design methodologies
+- - Implemented new procedures to save department TAs 100+ hours per semester, including developing new training procedures and documentation
+	
+`January 2018 - March 2020`
+__Full-Time Volunteer Representative__
+_Church of Jesus Christ of Latter-day Saints_, Orlando, FL
+- Coached and mentored teams (6-12) of full-time volunteers by creating unity, emphasizing individual abilities, and promoting personal growth
+- Collected and interpreted team data to plan, conduct, and speak at weekly training meetings
+- Reviewed statistics to determine team direction and emphases
+- Supervised Regional groups (20-40) of full-time volunteers
+
+
+## Skills
+- Hypothesis testing, confidence intervals, Statistical programming
+- 2 years professional experience with R, 2 years experience with Python, Competent in MySQL, Experience in C# (Unity), HTML, CSS
+- Technical / persuasive writing and public speaking
+
 
 
 
