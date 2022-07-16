@@ -3,13 +3,10 @@ layout: cv
 title: Daniel Bagley's Resume
 ---
 # Daniel Bagley
-www.linkedin.com/in/daniel-bagley | (801) 717 7585 | danielbagely@gmail.com 
+_Student of Statistics creating exceptional value in the workplace through careful analysis and bold innovation_ 
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://www.linkedin.com/in/daniel-bagley">LinkedIn</a>
-| <a href="https://github.com/danielstats">GitHub</a>
-</div>
+
+<a href="https://www.linkedin.com/in/daniel-bagley">LinkedIn</a> | (801) 717 7585 | danielbagely@gmail.com | <a href="https://github.com/danielstats">GitHub</a>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
